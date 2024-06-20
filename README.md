@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrianNorbert21
-- 👀 I’m interested in Artificial Intelligence and Machine learning models llm's.
+- 👀 I’m interested in Artificial Intelligence and Machine learning and llm models.
 - 🌱 I’m currently learning backend most of it is python, java and machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email : adriannorbert34@gmail.com or linkedin : https://www.linkedin.com/in/adrian-norbert-9234b3253/
